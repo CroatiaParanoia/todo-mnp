@@ -1,0 +1,18 @@
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+.input {
+  flex: 1;
+}
+
+.create-btn {
+  margin: 0;
+  margin-left: 24rpx;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+}
